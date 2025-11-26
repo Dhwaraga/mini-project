@@ -120,6 +120,7 @@ The robot successfully follows a human while carrying luggage and demonstrates a
 (Refer: Page 14–15 of the project report )
 
 <img width="431" height="548" alt="image" src="https://github.com/user-attachments/assets/198bb6e9-e4ea-4153-9459-8bfe6948c059" />
+
 <img width="398" height="218" alt="image" src="https://github.com/user-attachments/assets/bb90c238-1c29-4d10-b109-39dd6bc324f6" />
 
 ## Repository Structure 
