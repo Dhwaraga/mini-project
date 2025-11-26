@@ -27,7 +27,7 @@ The concept uses:
   
 ## Implementation Overview
 
-1. Hardware Assembly*— Chassis, motors, sensors, battery.
+1. Hardware Assembly— Chassis, motors, sensors, battery.
 2. Software Programming — Sensor interfacing, movement logic, tracking algorithm.
 3. Testing — Various dynamic environments.
    (Refer: Page 5 of the report )
