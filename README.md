@@ -111,12 +111,14 @@ Includes research papers, ROS books, online resources, and robotics workshops.
 
 Internal prototype image and final model photos included in the report.
 (See Pages 13–15 for images of Fig 2, Fig 3, Fig 4, Fig 5 )
+
 <img width="495" height="448" alt="image" src="https://github.com/user-attachments/assets/caba3624-14b8-47e8-956a-ae76eee2bd76" />
 
 ## Outcomes
 
 The robot successfully follows a human while carrying luggage and demonstrates autonomous navigation using ultrasonic + IR sensors.
 (Refer: Page 14–15 of the project report )
+
 <img width="431" height="548" alt="image" src="https://github.com/user-attachments/assets/198bb6e9-e4ea-4153-9459-8bfe6948c059" />
 <img width="398" height="218" alt="image" src="https://github.com/user-attachments/assets/bb90c238-1c29-4d10-b109-39dd6bc324f6" />
 
