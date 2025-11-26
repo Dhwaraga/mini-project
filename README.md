@@ -1,4 +1,4 @@
-Human Following Luggage Carrying Robot
+## Human Following Luggage Carrying Robot
 
 A mini-project developed as part of the Electronics and Communication Engineering curriculum at Velammal Engineering College (Autonomous).
 This robot is designed to autonomously follow a human and carry luggage using sensors, motor drivers, and Arduino-based control logic.
